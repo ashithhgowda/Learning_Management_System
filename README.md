@@ -88,15 +88,15 @@ The system includes login functionality for both students and instructors, with 
 
 ## Technologies Used
 
--Java 17
--Spring Boot
--Maven
--REST API
--Postman (testing)
--H2 / MySQL Database
+- **Java 17**
+- **Spring Boot**
+- **Maven**
+- **REST API**
+- **Postman (testing)**
+- **H2 / MySQL Database**
 
 ## Future Enhancements
 
--Role-based access control for security.
--Add a frontend interface using HTML/CSS/React.
--Reporting and analytics for student performance.
+- **Role-based access control for security.**
+- **Add a frontend interface using HTML/CSS/React.**
+- **Reporting and analytics for student performance.**
