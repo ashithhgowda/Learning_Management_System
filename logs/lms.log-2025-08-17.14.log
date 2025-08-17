@@ -1,0 +1,7 @@
+2025-08-17T13:39:38.616+05:30  INFO 2944 --- [lms] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-08-17T13:39:38.704+05:30  INFO 2944 --- [lms] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.22.Final
+2025-08-17T13:39:38.766+05:30  INFO 2944 --- [lms] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-08-17T13:39:39.309+05:30  INFO 2944 --- [lms] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-08-17T13:39:39.372+05:30  INFO 2944 --- [lms] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-08-17T13:39:39.951+05:30  INFO 2944 --- [lms] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a730479
+2025-08-17T13:39:39.957+05:30  INFO 2944 --- [lms] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.

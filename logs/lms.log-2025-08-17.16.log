@@ -1,0 +1,6 @@
+2025-08-17T13:39:41.820+05:30  INFO 2944 --- [lms] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-08-17T13:39:42.439+05:30  WARN 2944 --- [lms] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-17T13:39:42.509+05:30  INFO 2944 --- [lms] [main] eAuthenticationProviderManagerConfigurer : Global AuthenticationManager configured with AuthenticationProvider bean with name customAuthenticationProvider
+2025-08-17T13:39:43.313+05:30  INFO 2944 --- [lms] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-17T13:39:43.329+05:30  INFO 2944 --- [lms] [main] com.example.lms.LmsApplication           : Started LmsApplication in 7.955 seconds (process running for 9.152)
+2025-08-17T13:39:57.738+05:30  INFO 2944 --- [lms] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'

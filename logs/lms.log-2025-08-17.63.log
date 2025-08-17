@@ -1,0 +1,7 @@
+2025-08-17T14:48:43.036+05:30  INFO 8160 --- [lms] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 88 ms. Found 4 JPA repository interfaces.
+2025-08-17T14:48:43.794+05:30  INFO 8160 --- [lms] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-17T14:48:43.825+05:30  INFO 8160 --- [lms] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-08-17T14:48:43.826+05:30  INFO 8160 --- [lms] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-17T14:48:43.918+05:30  INFO 8160 --- [lms] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-08-17T14:48:43.919+05:30  INFO 8160 --- [lms] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2003 ms
+2025-08-17T14:48:44.198+05:30  INFO 8160 --- [lms] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]

@@ -1,0 +1,6 @@
+2025-08-17T14:10:12.563+05:30  INFO 3312 --- [lms] [RMI TCP Connection(6)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-17T14:10:12.568+05:30  INFO 3312 --- [lms] [RMI TCP Connection(6)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-17T14:10:12.582+05:30  INFO 3312 --- [lms] [RMI TCP Connection(6)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-08-17T14:10:17.081+05:30  INFO 11528 --- [lms] [main] com.example.lms.LmsApplication           : Starting LmsApplication using Java 21.0.8 with PID 11528 (D:\ashithjava\working_directory\lms\target\classes started by ASHITH in D:\ashithjava\working_directory\lms)
+2025-08-17T14:10:17.085+05:30  INFO 11528 --- [lms] [main] com.example.lms.LmsApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-08-17T14:10:18.336+05:30  INFO 11528 --- [lms] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.

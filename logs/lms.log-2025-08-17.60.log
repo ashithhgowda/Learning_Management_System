@@ -1,0 +1,5 @@
+2025-08-17T14:25:15.589+05:30  INFO 1312 --- [lms] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-08-17T14:25:15.764+05:30  INFO 1312 --- [lms] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-08-17T14:25:16.340+05:30  WARN 1312 --- [lms] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-17T14:25:16.635+05:30  INFO 1312 --- [lms] [main] eAuthenticationProviderManagerConfigurer : Global AuthenticationManager configured with AuthenticationProvider bean with name customAuthenticationProvider
+2025-08-17T14:25:17.160+05:30  INFO 1312 --- [lms] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'

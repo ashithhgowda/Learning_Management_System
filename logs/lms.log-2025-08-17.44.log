@@ -1,0 +1,6 @@
+2025-08-17T14:10:23.642+05:30  INFO 11528 --- [lms] [main] eAuthenticationProviderManagerConfigurer : Global AuthenticationManager configured with AuthenticationProvider bean with name customAuthenticationProvider
+2025-08-17T14:10:24.181+05:30  INFO 11528 --- [lms] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-17T14:10:24.195+05:30  INFO 11528 --- [lms] [main] com.example.lms.LmsApplication           : Started LmsApplication in 7.87 seconds (process running for 9.01)
+2025-08-17T14:10:28.236+05:30  INFO 11528 --- [lms] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-17T14:10:28.237+05:30  INFO 11528 --- [lms] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-17T14:10:28.240+05:30  INFO 11528 --- [lms] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms

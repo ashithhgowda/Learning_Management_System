@@ -1,0 +1,6 @@
+2025-08-17T13:39:27.966+05:30  INFO 15012 --- [lms] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-08-17T13:39:27.976+05:30  INFO 15012 --- [lms] [RMI TCP Connection(15)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-17T13:39:27.980+05:30  INFO 15012 --- [lms] [RMI TCP Connection(15)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-17T13:39:27.995+05:30  INFO 15012 --- [lms] [RMI TCP Connection(15)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-08-17T13:39:36.131+05:30  INFO 2944 --- [lms] [main] com.example.lms.LmsApplication           : Starting LmsApplication using Java 21.0.8 with PID 2944 (D:\ashithjava\working_directory\lms\target\classes started by ASHITH in D:\ashithjava\working_directory\lms)
+2025-08-17T13:39:36.136+05:30  INFO 2944 --- [lms] [main] com.example.lms.LmsApplication           : No active profile set, falling back to 1 default profile: "default"

@@ -1,0 +1,7 @@
+2025-08-17T14:07:49.752+05:30  INFO 3312 --- [lms] [main] com.example.lms.LmsApplication           : Started LmsApplication in 8.281 seconds (process running for 9.467)
+2025-08-17T14:08:00.533+05:30  INFO 3312 --- [lms] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-17T14:08:00.534+05:30  INFO 3312 --- [lms] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-17T14:08:00.536+05:30  INFO 3312 --- [lms] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-08-17T14:10:12.543+05:30  INFO 3312 --- [lms] [RMI TCP Connection(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-08-17T14:10:12.547+05:30  INFO 3312 --- [lms] [RMI TCP Connection(6)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-17T14:10:12.555+05:30  INFO 3312 --- [lms] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
